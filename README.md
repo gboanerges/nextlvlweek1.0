@@ -85,6 +85,8 @@ Com o objetivo de ajudar as pessoas a descartarem resíduos corretamente, facili
   npm install
   npm start
 
+  Pode ser preciso mudar o endereço IP no arquivo api.ts dentro da pasta => mobile\src\services
+
 # Para emular o aplicativo no celular, basta baixar o Expo e scanear o QRCode
 ```
 ---
